@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and playing with Python.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on Web Dev & Python projects.
-- 📫 You can reach me through here or my LinkdIn.
+- 📫 You can reach me here
 
 <!---
 DNUVision/DNUVision is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
