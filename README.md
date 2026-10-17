@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DNUVision
-- 👀 I’m interested in Web Development and playing with Python.
-- 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on Web Dev & Python projects.
+- 👀 I’m interested in Linux and Python.
+- 🌱 I’m currently learning Linux.
+- 💞️ I’m looking to collaborate on Linux and Python.
 - 📫 You can reach me here
 
 <!---
